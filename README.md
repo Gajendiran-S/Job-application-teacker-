@@ -8,7 +8,9 @@ Use git clone to copy the repo to your local machine using git bash:
 
 git clone https://github.com/Gajendiran-S/Job-application-teacker-
 
-**2. run backend**
+
+**2.run backend**
+
 cd backend
 
 npm run dev
